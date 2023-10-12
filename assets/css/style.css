@@ -11,12 +11,12 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: blue;
 }
 
 a {
   text-decoration: none;
-  color: darkgreen;
+  color: red;
 }
 
 a:hover {
